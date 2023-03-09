@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div .row {
+  --bs-gutter-x: 0;
+  overflow-x: hidden !important;
+  margin: 8px;
+}
+
+::-webkit-input-placeholder {
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+  opacity: 0.7;
+}
+/* .is-data {
+  width: 75%;
+} */
+
+.poppins-font {
+  font-family: "Poppins", sans-serif;
+}
+
+.shantell-font {
+  font-family: "Shantell Sans", cursive;
+}
+
+.section-content {
+  background-color: #eee;
+  width: 100%;
+  height: 97vh;
+  overflow-y: auto;
+}
+
+.hedear-title {
+  height: 7rem;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.hedear-title span,
+.hedear-title p {
+  font-size: 25px;
+  color: #fff;
+}
+
+.section-data {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background-color: #e8d5c4;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-box {
+  width: 15.7rem !important;
+  background-color: #fff;
+  display: flex;
+  align-items: center !important;
+  border-radius: 5px;
+  justify-content: space-between;
+}
+
+.search-box .input-search {
+  border: none;
+  outline: none;
+  height: 30px;
+}
+
+textarea {
+  height: 107px;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+}
+
+.icon-action {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 50px;
+  display: flex;
+  height: 30px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

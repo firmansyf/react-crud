@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "name": "Yusuf Firmansyah",
+      "email": "yusufstudent2002@gmail.com",
+      "position": "Frontend Developer",
+      "no_phone": "085211701321",
+      "gender": "laki_laki",
+      "country": "Indonesian",
+      "departmen": "",
+      "description": "Hello i am owner, thanks",
+      "id": 1
+    },
+    {
+      "name": "Fajar",
+      "email": "jar@yahoo.com",
+      "no_phone": "087366475809",
+      "gender": "laki_laki",
+      "position": "Backend Developer",
+      "country": "Saudi Arabia",
+      "departmen": "",
+      "description": "Thanks, i am a dev",
+      "id": 2
+    },
+    {
+      "name": "Serli wang",
+      "email": "ei@gmail.com",
+      "no_phone": "1230900928",
+      "gender": "perempuan",
+      "position": "",
+      "country": "Chinese",
+      "departmen": "",
+      "description": "Hello, welcome aboard!",
+      "department": "Marketing",
+      "id": 3
+    },
+    {
+      "name": "Kimmy",
+      "email": "kimmy@yahoo.com",
+      "position": "UI Design",
+      "no_phone": "089773646299",
+      "gender": "perempuan",
+      "country": "Spain",
+      "departmen": "",
+      "description": "Hai, nice to meet you!",
+      "id": 4
+    },
+    {
+      "name": "Testing 1",
+      "email": "example@gmail.com",
+      "no_phone": "",
+      "gender": "perempuan",
+      "position": "",
+      "country": "England",
+      "departmen": "",
+      "description": "Checking",
+      "id": 5
+    },
+    {
+      "name": "Bootstrap",
+      "email": "example@gmail.com",
+      "no_phone": "",
+      "gender": "laki_laki",
+      "position": "",
+      "country": "Amerika",
+      "departmen": "",
+      "description": "https://getbootstrap.com/docs/5.0/components/tooltips/",
+      "id": 6
+    }
+  ]
+}
